@@ -1,0 +1,65 @@
+body {
+    background-color: snow;
+}
+.upperInfo {
+	list-style-type: none;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    float: right;
+    clear: both;
+}
+#sml-logo img{
+    box-shadow: 1px 1px 1px 1px #888888;
+    width: 10vw;
+}
+#top-nav {
+	clear:both;
+    width: 100%;
+    padding: 1px;
+    text-align: center;
+    margin-bottom: .75%;
+    margin-top: .5%;
+}
+.list-inline {
+    margin-bottom: 0px;
+}
+.list-inline > li {
+    display: inline-block;
+    font-size: 1.5vw;
+
+}
+.list-inline a {
+    font-size: 1.25vw;
+    color:#33343E;
+}
+#main-image > img{
+    height: 30vw;
+    width: 99.75%;
+    margin-bottom: 2%;
+}
+p {
+    padding: 1.5%;
+}
+#header-left {
+    padding-left:1.5%;
+    margin-bottom: 0px;
+    float:left;
+    width:53%;
+}
+#header-right {
+    margin-bottom: 0px;
+    float:left;
+}
+div.infoLeft p{
+    clear:both;
+    float: left;
+    width: 48%;
+}
+div.infoRight p{
+    float: right;
+    width: 48%;
+}
+h1 {
+    text-align: center;
+}
